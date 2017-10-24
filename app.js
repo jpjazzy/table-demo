@@ -1,4 +1,11 @@
 'use strict';
+/*
+* General layout:
+* Create Constructors
+* Create Constructor.prototype.methods()
+* Create Objects using constructors
+*/
+
 
 //grab table content and create empty array to pop
 var table = document.getElementById('table_content');
