@@ -24,7 +24,7 @@ var cars = [{
   mileage: 98000
 }];
 
-//make new car with new constructor function
+//make new car with new constructor function (object instantiation)
 cars.push(new Car('mitsubishi', 'eclipse', 2000, 186000));
 
 //loop through objects
